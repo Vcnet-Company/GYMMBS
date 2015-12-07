@@ -305,6 +305,7 @@ h1,h2,h3,h4,h5,h6,p,label{
   color: #fff;
   line-height: 1.7em;
   margin-top: 1em;
+  text-align: justify;
 }
 .content-bottom {
   padding: 4em 0;
@@ -790,6 +791,7 @@ h3.typo1 {
 .content-top1 p,.content-bottom-top1 p {
   font-size: 1em;
   line-height: 1.6em;
+  text-align: justify;
 }
 /*--album--*/
 .header-main {
