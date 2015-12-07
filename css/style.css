@@ -648,6 +648,10 @@ ul.popular li a:hover{
 .cate-top{
 	padding:0em 0 2.8em;
 }
+h6#chngft {
+    font-size: 1em;
+    font-weight: bold;
+}
 .cate-cate h6{
 	margin: 0 0 10px 0;
 	font-size: 1.2em;
