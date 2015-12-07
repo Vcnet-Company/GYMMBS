@@ -404,10 +404,10 @@ img#img_size {
 .da-thumbs li {
   float: left;
   margin: 0.4%;
-  background: #000;
+  background: rgba(255, 196, 16, 0.39);
   padding: 8px;
   position: relative;
-  box-shadow: 0 1px 3px rgba(41, 196, 202, 0.43);
+  box-shadow: 0 1px 3px rgb(255, 255, 255);
   width: 32.4%;
 }
 .da-thumbs li a,
