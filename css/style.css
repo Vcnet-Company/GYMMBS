@@ -40,6 +40,16 @@ h1,h2,h3,h4,h5,h6,p,label{
 	display: block;
 	background-size: cover;
 }
+h3#footer_a {
+    margin: 1em 0;
+    color: aliceblue;
+    font-weight: bold;
+}
+h3#footer_h3 {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 20pt;
+}
 .header-main{
 	background: url(../images/back.jpg) no-repeat ;
 	width:100%;
