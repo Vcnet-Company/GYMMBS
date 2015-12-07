@@ -40,6 +40,16 @@ h1,h2,h3,h4,h5,h6,p,label{
 	display: block;
 	background-size: cover;
 }
+h3#footer_a {
+    margin: 1em 0;
+    color: aliceblue;
+    font-weight: bold;
+}
+h3#footer_h3 {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 20pt;
+}
 .header-main{
 	background: url(../images/back.jpg) no-repeat ;
 	width:100%;
@@ -243,6 +253,12 @@ h1,h2,h3,h4,h5,h6,p,label{
 }
 .content-mid {
   padding-bottom: 5em;
+}
+.ul{
+  margin-left:25px;
+}
+.h4{
+ text-align:center;
 }
 /*--//content-mid--*/
 .content-middle{
@@ -494,7 +510,7 @@ h1,h2,h3,h4,h5,h6,p,label{
 }
 .address-grid i{
 	color:#29C4CA;
-	font-size:4em;
+	font-size:2em;
 	float: left;
 	margin: 0 9% 0 0;
   display: inline-block;
@@ -504,7 +520,7 @@ h1,h2,h3,h4,h5,h6,p,label{
 	  margin-top: 0.5em;
 }
 .address1 p{
-	font-size:1.8em;
+	font-size:1.2em;
 	color: #fff;
 	line-height: 1.5em;	
 }
@@ -931,6 +947,7 @@ span.menu{
 h1.grid2 {
   font-size: 2.3em;
 }
+
 }
 @media(max-width:640px){
 .banner-matter h3 {
@@ -1018,6 +1035,12 @@ h2.grid2 {
 }
 h3.typo1 {
   font-size: 2.5em;
+}
+p.pra
+{
+  font-size:1em;
+  font-weight:bold;
+  color:blue;
 }
 .page {
   margin: 2em 0;
@@ -1454,6 +1477,12 @@ span.label {
 }
 h3.typo1 {
   font-size: 1.7em;
+}
+p.pra
+{
+  font-size:1em;
+  font-weight:bold;
+  color:blue;
 }
 .page-header h3 {
   font-size: 1.8em;
